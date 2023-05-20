@@ -23,12 +23,19 @@ Louvain算法可适用于多种类型的网络，根据网络的不同，模块�
  
 [数据集链接](http://snap.stanford.edu/data/email-Eu-core.html)
 ## Requirements
+
 pip install collections
+
 pip install numpy  
+
 pip install random
+
 pip install networkx
+
 pip install matplotlib.pyplot 
+
 pip install scipy
+
 ## 实验结果
 ![实验结果](RESULT.png)
 |  社区标号     |        节点标号      |
