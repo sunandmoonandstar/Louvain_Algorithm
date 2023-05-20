@@ -16,7 +16,7 @@ Louvain算法可适用于多种类型的网络，根据网络的不同，模块�
  |数据集         |    email-Eu-core network             |
 |----------------|-------------------------------
 |Nodes|1005          
-|Nodes	|25571           
+|Edges	|25571           
 |Average clustering coefficient|0.3994
 |Number of triangles | 105461
 |Diameter (longest shortest path)| 7
