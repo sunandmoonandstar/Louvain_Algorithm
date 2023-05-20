@@ -20,7 +20,8 @@ Louvain算法可适用于多种类型的网络，根据网络的不同，模块�
 |Average clustering coefficient|0.3994
 |Number of triangles | 105461
 |Diameter (longest shortest path)| 7
-  [数据集链接](http://snap.stanford.edu/data/email-Eu-core.html)
+ 
+[数据集链接](http://snap.stanford.edu/data/email-Eu-core.html)
 ## Requirements
 pip install collections
 pip install numpy  
